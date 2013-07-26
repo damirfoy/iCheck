@@ -1,4 +1,4 @@
 iCheck
 ======
 
-**Moved to https://github.com/fronteed/iCheck**
+#### Moved to http://github.com/fronteed/iCheck
