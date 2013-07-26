@@ -1,4 +1,4 @@
 iCheck
 ======
 
-Highly customizable checkboxes and radio buttons for jQuery and Zepto. 
+**Moved to https://github.com/fronteed/iCheck**
